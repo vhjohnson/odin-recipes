@@ -1,8 +1,14 @@
-.heading {
+h1 {
     color: white;
     background-color: purple;
     font-size: 42px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: rgb(5, 18, 61);
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .cooking-image {
@@ -14,6 +20,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 32px;
     font-weight: bold;
+}
+
+#homepage {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: grey;
 }
 
 .chicken-souv,
