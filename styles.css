@@ -6,10 +6,47 @@ h1 {
 }
 
 h2 {
-    color: rgb(5, 18, 61);
+    color: slateblue;
+    background-color: lightsteelblue;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
 }
+
+h4 {
+    color: rgb(35, 110, 107);
+    background-color: lightgray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+p {
+    background-color: rgb(200, 166, 223)
+}
+
+.ingredients,
+.steps {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(59, 142, 214);
+}
+
+.ingredients {
+    background-color: lightpink;
+}
+
+.steps {
+    background-color: lightgoldenrodyellow;
+}
+
+#homepage {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgrey;
+    color: darkslategray;
+}
+
 
 .cooking-image {
     height: auto;
@@ -20,12 +57,6 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 32px;
     font-weight: bold;
-}
-
-#homepage {
-    font-size: 20px;
-    font-weight: bold;
-    background-color: grey;
 }
 
 .chicken-souv,
